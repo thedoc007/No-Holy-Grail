@@ -57,7 +57,7 @@ const Footer = () => {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; 2024 Trading Reality Check. All rights reserved.</p>
+          <p>&copy; 2025 No Holy Grail. All rights reserved.</p>
           <p>
             <span className="disclaimer">
               Disclaimer: This website is for educational purposes only. 
